@@ -6,12 +6,12 @@
 ## Tools I've played around with 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,githubactions,supabase,vercel,bash,obsidian" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,githubactions,supabase,vercel,bash,obsidian" />
 </p>
 
 ## Duh
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,markdown,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,markdown,stackoverflow" />
 </p>
 
 ## Tools college forced down upon me 
