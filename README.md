@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter," />
 </p>
-## Ashamed that I'm still neglecting 
+##Ashamed that I'm still neglecting 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
