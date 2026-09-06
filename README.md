@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryingCSlayout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryingCS&layout=compact)
 
 
 I use mint btw
