@@ -10,7 +10,7 @@
 </p>
 ## Duh
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,windows,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,stackoverflow" />
 </p>
 
 ## Tools college forced down upon me 
