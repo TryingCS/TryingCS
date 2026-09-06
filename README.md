@@ -12,7 +12,7 @@
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,assembly,omnet++,react,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,assembly,omnet,reactjs,php,python" />
 </p>
 
  I use <img src="https://skillicons.dev/icons?i=mint" />btw
