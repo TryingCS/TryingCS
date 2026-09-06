@@ -12,8 +12,15 @@
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,assembly,omnet,react.js,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,ubunutu,assembly,omnet,react.js,php,python" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+
+
 
  I use <img src="https://skillicons.dev/icons?i=mint" />btw
 
