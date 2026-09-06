@@ -6,7 +6,7 @@
 ## Tools I've played around with 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,supabase,vercel,bash" />
 </p>
 
 ## Tools college forced down upon me 
