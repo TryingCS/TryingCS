@@ -17,7 +17,7 @@
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,postman" />
+  <img src="https://skillicons.dev/icons?i=c,ubuntu,eclipse,java,powershell,react,php,postman" />
 </p>
 
 <p align="center">
