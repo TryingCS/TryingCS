@@ -7,10 +7,12 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,,supabase,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,supabse,vercel" />
 </p>
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-
 
 <br>
-I use mint btw
+
+
+ I use ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white) btw
+
+
