@@ -23,12 +23,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter," />
 </p>
-##Ashamed that I'm still neglecting 
 <p align="center">
+
+  ## Ashamed that I'm still neglecting
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 
- I use <img src="https://skillicons.dev/icons?i=mint" />btw
+ # I use <img src="https://skillicons.dev/icons?i=mint" />btw
 
 
