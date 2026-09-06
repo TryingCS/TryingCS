@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,githubactions,supabase,vercel,bash,obsidian,markdown" />
 </p>
-## Duh
+
+##Duh
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,stackoverflow" />
 </p>
@@ -16,14 +17,16 @@
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,postman,python" />
+  <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,postman" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter," />
 </p>
-
-
+## Ashamed that I'm still neglecting 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 
  I use <img src="https://skillicons.dev/icons?i=mint" />btw
