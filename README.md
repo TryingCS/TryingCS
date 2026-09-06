@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,githubactions,supabase,vercel,bash,obsidian" />
 </p>
 
-##Duh
+## Duh
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,markdown,stackoverflow" />
 </p>
