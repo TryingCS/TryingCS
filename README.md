@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,markdown,stackoverflow" />
 </p>
 
-## Barely remember from college
+## Tools college forced down upon me 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,postman" />
