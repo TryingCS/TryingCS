@@ -9,7 +9,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,supabase,vercel" />
 </p>
 
+## Tools college forced down upon me 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,assembly,omnet++,react,php,python" />
+</p>
 
  I use <img src="https://skillicons.dev/icons?i=mint" />btw
 
