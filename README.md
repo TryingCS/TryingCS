@@ -8,11 +8,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,githubactions,supabase,vercel,bash,obsidian,markdown" />
 </p>
+## Duh
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,windows,stackoverflow" />
+</p>
 
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,ubuntu,java,powershell,react,php,postman,python" />
 </p>
 
 <p align="center">
