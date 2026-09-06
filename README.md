@@ -12,7 +12,7 @@
 ## Tools college forced down upon me 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ubunutu,assembly,omnet,react.js,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,ubuntu,assembly,react,php,python" />
 </p>
 
 <p align="center">
